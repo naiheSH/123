@@ -30,11 +30,11 @@ cd 123
 ```
 - **修改文件权限**
 ```bash
-chmod +x 123
+chmod +x android
 ```
 - **运行**
 ```bash
-./123
+./android
 ```
 # 二、Windows环境
 下载releases发行版后解压运行即可
