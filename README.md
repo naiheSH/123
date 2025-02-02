@@ -1,6 +1,9 @@
 # 123云盘 下载工具发行版
-#### 引用
-[python 123pan](https://github.com/naiheSH/123pan)
+##引用
+[pyinstaller](https://github.com/pyinstaller/pyinstaller):pytthon打包工具
+[123pan_python](https://github.com/naiheSH/123pan):原python文件
+[python](https://www.python.org/):python环境
+
 # 一、Termux终端环境
 - [Temux](https://f-droid.org/en/packages/com.termux/)
 - [Termux:API](https://f-droid.org/en/packages/com.termux.api/)
