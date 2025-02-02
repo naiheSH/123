@@ -36,6 +36,7 @@ chmod +x android
 ```bash
 ./android
 ```
+## 默认保存目录为/storage/emulated/0/123/
 # 二、Windows环境
 下载releases发行版后解压运行即可
 # 注意事项
