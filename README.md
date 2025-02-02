@@ -10,31 +10,31 @@
 - 无法确定api使用性，下载Termux无上下行流量，API拥有上下行流量
 - **更新**
 ```bash
-- pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y
 ```
 - **允许访问本地存储**
 ```bash
-- termux - setup - storage
+termux - setup - storage
 ```
 - **下载git**
 ```bash
-- pkg install git -y
+pkg install git -y
 ```
 - **克隆本项目**
 ```bash
-- git clone https://github.com/naiheSH/123
+git clone https://github.com/naiheSH/123
 ```
 - **cd本项目目录**
 ```bash
-- cd 123
+cd 123
 ```
 - **修改文件权限**
 ```bash
-- mod +x 123
+chmod +x 123
 ```
 - **运行**
 ```bash
-- ./123
+./123
 ```
 # 二、Windows环境
 下载releases发行版后解压运行即可
