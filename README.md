@@ -8,7 +8,7 @@
 - **更新**
 - pkg update && pkg upgrade -y
 - **允许访问本地存储**
-- termux - setup - storage、
+- termux - setup - storage
 - **下载git**
 - pkg install git -y
 - **克隆本项目**
